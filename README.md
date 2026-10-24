@@ -64,7 +64,7 @@ Calculation:
 <img width="385" height="371" alt="Screenshot 2026-10-24 185211" src="https://github.com/user-attachments/assets/0abce2fe-b9cd-4523-bb01-9729c85c7345" />
 
 Open Circuit characteristics:
-<img width="1225" height="1077" alt="Screenshot 2026-10-24 185152" src="https://github.com/user-attachments/assets/072237ed-4be4-4035-8508-eae123c644f8" />
+<img width="1060" height="1022" alt="Screenshot 2026-10-24 190713" src="https://github.com/user-attachments/assets/4bf43aa3-c314-42d1-b1b8-80b20b9d4f41" />
 Load characteristics:
 <img width="1117" height="1078" alt="Screenshot 2026-10-24 190257" src="https://github.com/user-attachments/assets/30d983d8-15c7-4a18-8f70-b990955ded4e" />
 Result:
